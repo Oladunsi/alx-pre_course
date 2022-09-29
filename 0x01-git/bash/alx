@@ -4,4 +4,8 @@ echo "ALX School"
 =======
 echo "ALX School is so cool!"
 >>>>>>> master
+<<<<<<< HEAD
 "New Conflits"
+=======
+"Nothing Serious"
+>>>>>>> update_script
