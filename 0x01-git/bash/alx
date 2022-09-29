@@ -4,4 +4,12 @@ echo "ALX School"
 =======
 echo "ALX School is so cool!"
 >>>>>>> master
+<<<<<<< HEAD
 "Nothing Serious yet"
+=======
+<<<<<<< HEAD
+"New Conflits"
+=======
+"Nothing Serious and add a new conflict"
+>>>>>>> update_script
+>>>>>>> master
